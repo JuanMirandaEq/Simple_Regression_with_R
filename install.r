@@ -1,0 +1,6 @@
+install.packages('patchwork', type = 'source')
+install.packages('gridExtra', type = 'source')
+install.packages('fBasics', type = 'source')
+install.packages('lmtest', type = 'source')
+install.packages('whitestrap', type = 'source')
+install.packages('cumstats', type = 'source')
